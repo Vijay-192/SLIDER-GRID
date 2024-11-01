@@ -1,7 +1,3 @@
-/*
-  More about this function - 
-  https://codepen.io/rachsmith/post/animation-tip-lerp
-*/
 function lerp({ x, y }, { x: targetX, y: targetY }) {
   const fraction = 0.1;
   
